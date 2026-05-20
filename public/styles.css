@@ -7,3 +7,9 @@
     margin-bottom: 30px;
 
 }
+
+.highlight {
+    box-shadow: 0 0 15px rgba(255, 193, 7, 0.6);
+    border: 2px solid #ffc107 !important;
+    background-color: #fffdf5;
+}
