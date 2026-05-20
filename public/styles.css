@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+}
+#product-list h1{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+}
