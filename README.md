@@ -9,9 +9,9 @@ Nesta atividade, vamos montar um programa para praticar funções em JavaScript 
 
 ## Prints do trabalho
 
-![alt text](public/imgs/image.png)
 
-![alt text](<public/imgs/image copy.png>)
 
-![alt text](<public/imgs/image copy 2.png>)
+
+
+
 
