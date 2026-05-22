@@ -124,6 +124,8 @@ botoes[1].addEventListener('click', function() {
 function renderProducts(produtos) {
   const lista = document.getElementById('product-list');
   lista.innerHTML = '';
+  const detail = document.getElementById('product-details');
+  detail.innerHTML = '';
   produtos.forEach(function(produto) {
     const col = document.createElement('div');
     col.classList.add('col');
