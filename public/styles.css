@@ -1,15 +1,17 @@
-*{
-    margin: 0;
-}
-#product-list h1{
-    text-align: center;
-    margin-top: 30px;
-    margin-bottom: 30px;
-
+* {
+  margin: 0;
+  box-sizing: border-box;
 }
 
-.highlight {
-    box-shadow: 0 0 15px rgba(255, 193, 7, 0.6);
-    border: 2px solid #ffc107 !important;
-    background-color: #fffdf5;
+.card-img-top {
+  width: 100%;
+  height: 180px;
+  object-fit: contain; 
+  background-color: #f8f8f8;
+  padding: 10px;
 }
+
+.card {
+  height: 100%;
+}
+
